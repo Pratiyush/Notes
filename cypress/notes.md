@@ -15,11 +15,13 @@ Lets Try TODO APP
 -----------------
 
 > git clone https://github.com/deepshikha1590/cypress-tutorial-build-todo-starter
+>
 ![image](https://user-images.githubusercontent.com/2181212/122682975-b004cb00-d1fc-11eb-9ba5-c2f01d2646ea.png)
 
 **In order to run this project we need to have node and npm installed.**
 
 > npm install
+
  ![image](https://user-images.githubusercontent.com/2181212/122683007-eb06fe80-d1fc-11eb-9629-f4989b23f534.png)
 
 Once all the dependencies of project is installed, we should see **node_moudules** folder in the project.
@@ -34,7 +36,6 @@ First install cypress dependecies and peoject skeltion to our project using belo
 Now we should be able to see below folder structure of cypress in our project.
 
 ![image](https://user-images.githubusercontent.com/2181212/122683266-67e6a800-d1fe-11eb-9cbe-c80e127710ab.png)
-
 
 Lets add custome run script to run cypress runner.
 
@@ -60,8 +61,22 @@ Lets add a file
     input-form.spec.js
 ![image](https://user-images.githubusercontent.com/2181212/122683315-b5631500-d1fe-11eb-8683-45670f3ffd18.png)
 
-2. Text inputs
+Text inputs
+-------------
+Now lets write 1st real test....
 
+Identification of elements is one of most important part of the automation testing. Lets try to identify the element using the class name.
+![image](https://user-images.githubusercontent.com/2181212/122683579-68803e00-d200-11eb-94f8-0f6109e70e83.png)
+
+Lets add statement to verify the focussed element in page using above class.
+
+![image](https://user-images.githubusercontent.com/2181212/122683609-a7ae8f00-d200-11eb-8c39-1f68d895097f.png)
+
+Once we save this cypress will detect the file change and cypress runner will run our test.
+
+![image](https://user-images.githubusercontent.com/2181212/122683626-c57bf400-d200-11eb-86b0-33cdef3140bf.png)
+
+Our test failed because cypress coudn't find the focussed element with given class name so test failed. It also shows which step the test has failed on.
 
 Questions
 ----------

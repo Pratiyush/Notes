@@ -14,13 +14,29 @@ Cypress currently has more than 30K starts, around 2K Fork(1) in Github which is
 Lets Try TODO APP
 -----------------
 
-< git clone https://github.com/deepshikha1590/cypress-tutorial-build-todo-starter
+> git clone https://github.com/deepshikha1590/cypress-tutorial-build-todo-starter
 ![image](https://user-images.githubusercontent.com/2181212/122682975-b004cb00-d1fc-11eb-9ba5-c2f01d2646ea.png)
 
 **In order to run this project we need to have node and npm installed.**
 
-< npm install
-< npm install cypress
+> npm install
+ ![image](https://user-images.githubusercontent.com/2181212/122683007-eb06fe80-d1fc-11eb-9629-f4989b23f534.png)
+
+Once all the dependencies of project is installed, we should see **node_moudules** folder in the project.
+![image](https://user-images.githubusercontent.com/2181212/122683049-40dba680-d1fd-11eb-81a3-85e61525058f.png)
+
+Now to run the appliation we are required to run below command(Webpack)
+> npm start / nmp run dev - (It is configureable can be changed using package.json / also depends on javascript framework or dependencies.)
+
+First install cypress dependecies and peoject skeltion to our project using below command.
+> npm install cypress
+
+Now we should be able to see below folder structure of cypress in our project.
+
+![image](https://user-images.githubusercontent.com/2181212/122683266-67e6a800-d1fe-11eb-9cbe-c80e127710ab.png)
+
+
+Lets add custome run script to run cypress runner.
 
 Add NPM Script for cypress
 ```json
@@ -34,7 +50,18 @@ Add NPM Script for cypress
 ```
 
 Now its showtime, Let's run Cypress
-npm run cypress
+> npm run cypress
+
+When cypress runs for the first time it displays the it will provide some examples for reference.
+
+> cypress/integration folder is used to write test cases
+
+Lets add a file
+    input-form.spec.js
+![image](https://user-images.githubusercontent.com/2181212/122683315-b5631500-d1fe-11eb-8683-45670f3ffd18.png)
+
+2. Text inputs
+
 
 Questions
 ----------

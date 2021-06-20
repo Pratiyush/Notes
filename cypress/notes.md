@@ -15,6 +15,7 @@ Lets Try TODO APP
 -----------------
 
 < git clone https://github.com/deepshikha1590/cypress-tutorial-build-todo-starter
+![image](https://user-images.githubusercontent.com/2181212/122682975-b004cb00-d1fc-11eb-9ba5-c2f01d2646ea.png)
 
 **In order to run this project we need to have node and npm installed.**
 

@@ -78,11 +78,16 @@ Once we save this cypress will detect the file change and cypress runner will ru
 
 Our test failed because cypress coudn't find the focussed element with given class name so test failed. It also shows which step the test has failed on.
 
-Questions
-----------
+Now lets write some more test in same file.
+![image](https://user-images.githubusercontent.com/2181212/122683751-9619b700-d201-11eb-8ee7-0aafde017567.png)
 
-What is node?
+lets remove the duplication of the script:
 
-What is npm?
+![image](https://user-images.githubusercontent.com/2181212/122683808-f1e44000-d201-11eb-8242-50b304423d76.png)
 
-What is webpack and how to run app using webpack?
+We can configure our base url in cypress.json file which is avaliable at project level.
+![image](https://user-images.githubusercontent.com/2181212/122683835-1e985780-d202-11eb-9fbf-0f33dc699994.png)
+
+With that in place we can go back to our test script and change simply change visit to root of our site.
+![image](https://user-images.githubusercontent.com/2181212/122683865-4c7d9c00-d202-11eb-92a9-df05ee9a90dd.png)
+

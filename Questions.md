@@ -42,6 +42,7 @@ Note: The event file:preprocessor is used to customize how your test code is tra
 What is Cypress Studio?
 ----------------------------
 It is used to record the test cases and test can be modified as per our need. Its experimental tool stable version is yet to come.
+IN ORDER TO ENABLE IT WE NEED TO ADD IT IN CYPRESS:JSON CONFIG
 
 What is Cypress Dashboard?
 --------------------------

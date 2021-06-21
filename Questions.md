@@ -94,6 +94,6 @@ Gherkin is a set of grammar rules that makes plain text structured enough for Cu
  
 Test Pyramid
 ----------------
-
+![image](https://user-images.githubusercontent.com/2181212/122816447-07776980-d2d7-11eb-8b6b-268fdedab4bd.png)
 
 

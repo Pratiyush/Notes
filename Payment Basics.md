@@ -23,7 +23,7 @@ Fraud Detection, Financial Crime
 
 As I understand there are two types of Fraud or Crime detection process
 * Real Time - Which has to be really fast. For instance if we pay at Shop or Online Store we don't want to wait for very long. Credit Card Payments, Debit Card Payments, SPEA Instant Transfer(Single Euro Payments Area with 10 seconds).
-* Normal  - Bank Transfer, SPEA Debit Transfer, Wire which ever doen't require to tranfer money instantly.
+* Normal  - Bank Transfer, SPEA Direct Debit Transfer, Wire which ever doen't require to tranfer money instantly.
 
 Why company do Fraud Detection or Financial Crime?
 --------------------------------------------------

@@ -4,9 +4,11 @@ Types of Credit Card Transactions
 
 **Post-Authorization** . It is also know as Post-Auth or Capture. It is used to complete the Pre-Auth transactions. 
 
-**Void** . It is also know as Cancel. It is used to complete the Pre-Auth transactions. 
+**Void** . 
 
-**Refund** . It is also know as Post-Auth or Capture. It is used to complete the Pre-Auth transactions. 
+**Refund** .  
+
+**SALE** . 
 
 All transactions which we do online are called CNP - Card Not Present transactions.
 All tranasctions with at done at SHOP with Termianls are called - Card Present tranctions.

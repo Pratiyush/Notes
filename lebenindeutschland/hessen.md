@@ -1,4 +1,5 @@
-* Welches Wappen gehört zum Bundesland Hessen? --> Which coat of arms belongs to the state of Hesse?
+Welches Wappen gehört zum Bundesland Hessen? --> Which coat of arms belongs to the state of Hesse?
+----------------------------------------------------------------------------------------------------
  ![image](https://user-images.githubusercontent.com/2181212/123504231-43545b00-d658-11eb-9b66-c560f5fa0a5d.png)
  
  
@@ -14,6 +15,42 @@ Examples:
 
 **das Wappen  pl. die Wappen (Nouns)  --> coat of arms, emblem**
 
-**das Bundesland  pl.: die Bundesländer (Nouns) --> state  - federal state of Germany, Austria*
+**das Bundesland  pl.: die Bundesländer (Nouns) --> state, federal state of Germany, Austria**
 
 **gehören  | gehörte, gehört (Verb) --> to belong to so./sth.**
+
+Welches ist ein Landkreis in Hessen?-Which is a district in Hessen?* ANS - Main-Taunus-Kreis
+------------------------------------------------------------------
+Landkreis in Hessen 21
+* Bergstraße
+* Darmstadt-Dieburg
+* Fulda
+* Gießen
+* Groß-Gerau
+* Hersfeld-Rotenburg
+* Hochtaunuskreis
+* Kassel
+* Lahn-Dill-Kreis
+* Limburg-Weilburg
+* Main-Kinzig-Kreis
+* Main-Taunus-Kreis
+* Marburg-Biedenkopf
+* Odenwaldkreis
+* Offenbach 
+* Rheingau-Taunus-Kreis
+* Schwalm-Eder-Kreis
+* Vogelsbergkreis
+* Waldeck-Frankenberg
+* Werra-Meißner-Kreis
+* Wetteraukreis
+
+kreisfreie Städte - 5
+* Darmstadt
+* Frankfurt am Main
+* Kassel
+* Offenbach am Main
+
+Wiesbaden
+![image](https://user-images.githubusercontent.com/2181212/123504712-16ee0e00-d65b-11eb-8792-644dddd4ecca.png)
+
+**der Landkreis  pl.: die Landkreise -->county, rural district,	administrative district**

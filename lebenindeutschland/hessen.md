@@ -59,8 +59,8 @@ kreisfreie Städte - 5
 
 * der Landkreis  pl.: die Landkreise -->county, rural district,	administrative district
 
-Für wie viele Jahre wird der Landtag in Hessen gewählt?
+Für wie viele Jahre wird der Landtag in Hessen gewählt? https://dict.leo.org/media/audio/J1KyEwZHVQdOd08S72HjLA.ogg
 -------------------------------------------------------
 For how many years will the state parliament in Hesse be elected? **5**
-* der Landtag  pl.: die Landtage -  	state parliament **noun**
+* der Landtag  pl.: die Landtage -  	state parliament **noun** https://dict.leo.org/media/audio/J1KyEwZHVQdOd08S72HjLA.ogg
 * gewählt - elected  **adj.**

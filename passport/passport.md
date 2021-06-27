@@ -1,6 +1,6 @@
 Hello Guys just want to let you different state of passport when you apply, somehow I was lucky there was no address verification even though my address was changed and wife name was added.
 
-**What all things to keep in mind? **
+**What all things to keep in mind?**
 * Keep buffer of 3 months at least before applying. 
 * Biometric Photos are not accepted in passport application. Required size is 50x50mm.
 * Please check twice before selecting the Police station as selection of wrong Police station would cause delay.
@@ -9,7 +9,7 @@ Hello Guys just want to let you different state of passport when you apply, some
 
 I applied via POST on 2021-05-16 through IGCS they take a quite some time to start the process.
 
-**Status of Passport with Date (Without Address Verification): **
+**Status of Passport with Date (Without Address Verification):**
 * 2021-06-10 - Application Form Submitted
 * 2021-06-10 - Granting Initiated
 * 2021-06-10 - Application Granted on No verification basis

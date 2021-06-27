@@ -59,8 +59,38 @@ kreisfreie Städte - 5
 
 * der Landkreis  pl.: die Landkreise -->county, rural district,	administrative district
 
-Für wie viele Jahre wird der Landtag in Hessen gewählt? https://dict.leo.org/media/audio/J1KyEwZHVQdOd08S72HjLA.ogg
+Für wie viele Jahre wird der Landtag in Hessen gewählt?  
 -------------------------------------------------------
 For how many years will the state parliament in Hesse be elected? **5**
 * der Landtag  pl.: die Landtage -  	state parliament **noun** https://dict.leo.org/media/audio/J1KyEwZHVQdOd08S72HjLA.ogg
 * gewählt - elected  **adj.**
+
+Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?
+--------------------------------------------------------------
+From what age can you vote in local elections in Hessen? **18**
+
+Welche Farben hat die Landesflagge von Hessen?
+----------------------------------------------
+What colors is the flag of Hessen? **rot-weiß**
+
+Wo können Sie sich in Hessen über politische Themen informieren?
+-------------------------------------------------------------------
+Where can you find out more about political issues in Hessen? **bei der Landeszentrale für politische Bildung**
+
+Die Landeshauptstadt von Hessen heißt ...
+-------------------------------------------
+The state capital of Hesse is called ... **Wiesbaden.**
+
+
+Welches Bundesland ist Hessen?
+-------------------------------
+Welches Bundesland ist Hessen? **3**
+![image](https://user-images.githubusercontent.com/2181212/123532221-ba96f700-d70b-11eb-8a7b-6b78acf19650.png)
+
+ Wie nennt man den Regierungschef / die Regierungschefin in Hessen?
+ --------------------------
+ What do you call the head of government in Hesse? **Ministerpräsident / Ministerpräsidentin**
+ 
+Welchen Minister / welche Ministerin hat Hessen nicht?
+---------------------------
+Which minister does Hessen not have?  **Außenminister / Außenministerin - Foreign Minister**

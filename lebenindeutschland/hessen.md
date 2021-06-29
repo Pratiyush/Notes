@@ -69,6 +69,9 @@ Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?
 --------------------------------------------------------------
 From what age can you vote in local elections in Hessen? **18**
 
+* wählen - to vote  | voted, voted | Verbs
+* die Kommunalwahlen pl. - 	local government elections  pl. [POL.] Nouns
+
 Welche Farben hat die Landesflagge von Hessen?
 ----------------------------------------------
 What colors is the flag of Hessen? **rot-weiß**
@@ -77,10 +80,13 @@ Wo können Sie sich in Hessen über politische Themen informieren?
 -------------------------------------------------------------------
 Where can you find out more about political issues in Hessen? **bei der Landeszentrale für politische Bildung**
 
+* über - 		across  adv.
+
 Die Landeshauptstadt von Hessen heißt ...
 -------------------------------------------
 The state capital of Hesse is called ... **Wiesbaden.**
 
+* die Landeshauptstadt  pl.: die Landeshauptstädte - 	state capital - https://dict.leo.org/media/audio/Um6G5iZcY87SZhtORxa-Zw.ogg
 
 Welches Bundesland ist Hessen?
 -------------------------------
@@ -91,10 +97,13 @@ Welches Bundesland ist Hessen? **3**
  --------------------------
  What do you call the head of government in Hesse? **Ministerpräsident / Ministerpräsidentin**
  
+ * der Regierungschef | die Regierungschefin  pl.: die Regierungschefs, die Regierungschefinnen - head of government - https://dict.leo.org/media/audio/qFR6K932gQz3eV90mdl_GA.ogg
+ 
 Welchen Minister / welche Ministerin hat Hessen nicht?
 ---------------------------
 Which minister does Hessen not have?  **Außenminister / Außenministerin - Foreign Minister**
 
+* der Außenminister | die Außenministerin  pl.: die Außenminister, die Außenministerinnen - foreign minister https://dict.leo.org/media/audio/MGR5SpOX_2avpPS_RHbdKg.ogg
 
 Reference:
 https://www.lebenindeutschland.eu/fragenkatalog/he
